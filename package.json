@@ -1,0 +1,25 @@
+{
+  "name": "hayetadam-feth",
+  "version": "1.0.0",
+  "description": "fetch projet whith simplon",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hayetadam/hayetadam-fetch.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "hayet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hayetadam/hayetadam-fetch/issues"
+  },
+  "homepage": "https://github.com/hayetadam/hayetadam-fetch#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
